@@ -45,10 +45,12 @@ Built using React + Tailwind for a seamless user experience.
 | Tech        | Stack                                        |
 |-------------|----------------------------------------------|
 | Frontend    | React, Tailwind CSS                          |
-| Backend     | FastAPI / Flask                              |
+| Backend     | FastAPI / Flask *(in progress)*              |
 | AI Engine   | Fine-tuned lightweight LLM (LIDA-inspired)   |
 | Data        | Pandas, Matplotlib, Seaborn, Plotly          |
 | Deployment  | Render / HuggingFace / Vercel                |
+
+> ⚠️ **Note**: Backend development is currently in progress — Stay tuned for full functionality soon!
 
 ---
 
@@ -74,9 +76,3 @@ Built using React + Tailwind for a seamless user experience.
 ## 📫 Contact
 
 🔗 **Portfolio:** [https://portfolio-six-weld-65.vercel.app/](https://portfolio-six-weld-65.vercel.app/)
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F97316&height=140&section=footer"/>
-</p>
