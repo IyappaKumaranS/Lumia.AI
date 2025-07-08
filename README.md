@@ -1,7 +1,7 @@
 <h1 align="center">✨ Lumia.AI — Data to Dashboard, Reimagined</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Turn+raw+data+into+actionable+insights.;Prompt-powered+dashboard+creation.;Your+AI+data+assistant+is+here!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=Turn+raw+data+into+actionable+insights;Prompt-powered+dashboard+creation;Your+AI+data+assistant+is+here!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -64,23 +64,16 @@ Built using React + Tailwind for a seamless user experience.
 
 ## 📌 Use Cases
 
-- Business Analytics for Startups
-- Students working on data projects
-- Internal tool for quick insights
-- Teaching AI + Data Science Concepts
-
----
-
-## 🤝 Contributing
-
-Have ideas or want to collaborate? Feel free to open an issue or submit a pull request. Let’s build the future of AI dashboards together!
+- Business Analytics for Startups  
+- Students working on data projects  
+- Internal tool for quick insights  
+- Teaching AI + Data Science Concepts  
 
 ---
 
 ## 📫 Contact
 
-Created with 💡 by **Iyappa Kumaran**  
-🔗 [Portfolio](https://portfolio-six-weld-65.vercel.app/) • 💼 [LinkedIn](https://www.linkedin.com/in/iyappa-kumaran/) • 🧠 [Thinkbot Project](https://github.com/iyappakumaran/thinkbot)
+🔗 **Portfolio:** [https://portfolio-six-weld-65.vercel.app/](https://portfolio-six-weld-65.vercel.app/)
 
 ---
 
