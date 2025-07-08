@@ -7,8 +7,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Powered-Yes-4B0082?style=for-the-badge&logo=OpenAI&logoColor=white" />
   <img src="https://img.shields.io/badge/Built%20With-React%20%7C%20FastAPI%20%7C%20Lightweight%20LLM-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/yourusername/lumia.ai?style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues/yourusername/lumia.ai?style=for-the-badge" />
 </p>
 
 ---
@@ -51,16 +49,6 @@ Built using React + Tailwind for a seamless user experience.
 | Deployment  | Render / HuggingFace / Vercel                |
 
 > ⚠️ **Note**: Backend development is currently in progress — Stay tuned for full functionality soon!
-
----
-
-## 📸 Preview
-
-> Here's a sneak peek of how Lumia.AI works:
-
-<p align="center">
-  <img src="https://github.com/yourusername/lumia.ai/assets/demo.gif" width="600" alt="Lumia AI Demo" />
-</p>
 
 ---
 
